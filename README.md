@@ -5,7 +5,7 @@ This Projectp implements an end-to-end ML pipeline to predict customer churn usi
 - Data preprocessing(scaling, encoding) through pipeline
 - Train the Logistic Regression & Random Forest models
 - Hyperparameter tuning using GridSearchCV
-- Export model using joblib
+- Export the trained model using joblib
 
 ## How to use
 1. Clone the repo
